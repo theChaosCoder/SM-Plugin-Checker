@@ -1,0 +1,2 @@
+#Add your servers here. Format String: ip:port,rcn_pw
+#123.456.789.101:27015,mySecretRconPassword
